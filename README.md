@@ -3,6 +3,14 @@
 A full-stack web app that performs **AI-powered code reviews** with inline feedback, readability analysis, and natural-language explanations.  
 Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets users drag-and-drop files or paste code into an editor, receive instant AI review comments, and chat with an integrated assistant for deeper clarification.
 
+
+<p align="center">
+  <img src="assets/AI-CODE-REVIEWER-DEMO.png" width="750">
+  <img src="assets/AI-CODE-REVIEWER-DEMO(2).png" width="750">
+  <img src="assets/AI-CODE-REVIEWER-DEMO(3).png" width="750">
+</p>
+
+
 ---
 
 # Features
@@ -47,9 +55,12 @@ Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets 
 git clone https://github.com/ashanksagar/AI-Code-Reviewer.git
 cd AI-Code-Reviewer
 
+# Set your OpenAI API key
+export OPENAI_API_KEY="your_api_key_here"
 
-# Build and run using Docker
-docker-compose up --build
+# Then start the backend
+uvicorn app:app --host 0.0.0.0 --port 8000
+
 
 
 

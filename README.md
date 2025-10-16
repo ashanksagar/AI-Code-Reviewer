@@ -5,19 +5,11 @@ Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets 
 
 
 <p align="center">
-  <figure>
-    <img src="demo/AI-CODE-REVIEWER-DEMO.png" width="30%">
-    <figcaption>Upload Interface</figcaption>
-  </figure>
-  <figure>
-    <img src="demo/AI-CODE-REVIEWER-DEMO(2).png" width="30%">
-    <figcaption>AI Feedback Output</figcaption>
-  </figure>
-  <figure>
-    <img src="demo/AI-CODE-REVIEWER-DEMO(3).png" width="30%">
-    <figcaption>Chat Assistant</figcaption>
-  </figure>
+  <img src="assets/AI-CODE-REVIEWER-DEMO.png" width="32%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/AI-CODE-REVIEWER-DEMO(2).png" width="32%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/AI-CODE-REVIEWER-DEMO(3).png" width="32%" style="display:inline-block;"/>
 </p>
+
 
 
 

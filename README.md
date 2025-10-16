@@ -49,16 +49,16 @@ Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets 
 
 ---
 
-## Setup & Run Locally
+# Setup & Run Locally
 
-# Clone the repo
+## Clone the repo
 git clone https://github.com/ashanksagar/AI-Code-Reviewer.git
 cd AI-Code-Reviewer
 
-# Set your OpenAI API key
+## Set your OpenAI API key
 export OPENAI_API_KEY="your_api_key_here"
 
-# Then start the backend
+## Then start the backend
 uvicorn app:app --host 0.0.0.0 --port 8000
 
 

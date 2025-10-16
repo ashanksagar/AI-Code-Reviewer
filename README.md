@@ -5,9 +5,9 @@ Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets 
 
 
 <p align="center">
-  <img src="assets/AI-CODE-REVIEWER-DEMO.png" width="32%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets/AI-CODE-REVIEWER-DEMO(2).png" width="32%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets/AI-CODE-REVIEWER-DEMO(3).png" width="32%" style="display:inline-block;"/>
+  <img src="demo/AI-CODE-REVIEWER-DEMO.png" width="32%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="demo/AI-CODE-REVIEWER-DEMO(2).png" width="32%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="demo/AI-CODE-REVIEWER-DEMO(3).png" width="32%" style="display:inline-block;"/>
 </p>
 
 

@@ -49,7 +49,7 @@ Built with **FastAPI**, **JavaScript**, and **OpenAI’s GPT-4o-mini**, it lets 
 
 ---
 
-# Setup & Run Locally
+## Setup & Run Locally
 
 # Clone the repo
 git clone https://github.com/ashanksagar/AI-Code-Reviewer.git
